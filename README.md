@@ -95,9 +95,7 @@ Aspiring **Data Scientist / Software Engineer** with a strong foundation in **Py
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
 
@@ -112,20 +110,7 @@ Aspiring **Data Scientist / Software Engineer** with a strong foundation in **Py
 
 ---
 
-## 🛠️ How to Use This Repo
 
-1. Create a new GitHub repo named **`profile`** or any name you like.
-2. Add this file as `README.md` in the repo root (this shows on the repo home page).
-3. Replace `YOUR_GITHUB_USERNAME` with your username in the Stats section.
-4. (Optional) Add a `/projects` folder with subfolders for each project (code, screenshots, and mini‑README).
-
-```bash
-# quick start
-mkdir varsha-portfolio && cd varsha-portfolio
-echo "<paste the README content here>" > README.md
-git init && git add . && git commit -m "feat: add portfolio README"
-git branch -M main && git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/varsha-portfolio.git
-git push -u origin main
 ```
 
 ---
