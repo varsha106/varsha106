@@ -96,9 +96,6 @@ Aspiring **Data Scientist / Software Engineer** with a strong foundation in **Py
 ## 📊 GitHub Stats
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
 
 ---
