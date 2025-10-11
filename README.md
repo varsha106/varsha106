@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **varsha106/varsha106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hi there, I’m Varsha 👋
 
-Aspiring **Data Scientist / Software Engineer** with a strong foundation in **Python, Java**, and full‑stack development. I enjoy turning complex datasets into insights, building reliable software, and collaborating in fast‑moving teams.
+I’m a Data Scientist and Machine Learning Enthusiast passionate about transforming raw data into intelligent insights that drive impactful decisions. My expertise bridges the gap between statistical analysis, machine learning, and data engineering, and I love building analytical systems that make real-world sense..
 
 * 🎓 **M.S. in Computer Science** — Fitchburg State University (GPA 3.9)
 * 💡 Passionate about **ML, data engineering, and cloud** apps
-* 🔭 Recent work: full‑stack inventory systems, serverless apps, real‑time dashboards
+* 💬 Open to Data Science, ML Engineer, and AI Research roles
 * 📍 Based in Massachusetts, USA
 
 ---
@@ -82,6 +82,10 @@ Aspiring **Data Scientist / Software Engineer** with a strong foundation in **Py
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
 
 ---
+
+
+
+
 
 ## 📦 Featured Projects
 
