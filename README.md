@@ -21,7 +21,7 @@ I’m a Data Scientist and Machine Learning Enthusiast passionate about transfor
 * 🎓 **M.S. in Computer Science** — Fitchburg State University (GPA 3.9)
 * 💡 Passionate about **ML, data engineering, and cloud** apps
 * 💬 Open to Data Science, ML Engineer, and AI Research roles
-* 📍 Based in Massachusetts, USA
+* 📍 Based in Connecticut , USA
 
 ---
 
