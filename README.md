@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m a Data Scientist and Machine Learning Enthusiast passionate about transforming raw data into intelligent insights that drive impactful decisions. My expertise bridges the gap between statistical analysis, machine learning, and data engineering, and I love building analytical systems that make real-world sense..
 
-* 🎓 **M.S. in Computer Science** — Fitchburg State University (GPA 3.9)
+* 🎓 **M.S. in Computer Science** — Fitchburg State University 
 * 💡 Passionate about **ML, data engineering, and cloud** apps
 * 💬 Open to Data Science, ML Engineer, and AI Research roles
 * 📍 Based in Connecticut , USA
