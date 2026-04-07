@@ -1,6 +1,6 @@
 # Hi there, I’m Varsha 👋
 
-🚀 **Python AI Engineer | Machine Learning Engineer**
+🚀 **Python AI Engineer **
 
 I am a Python AI Engineer passionate about building intelligent systems that transform data into real-world solutions.
 
