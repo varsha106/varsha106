@@ -1,10 +1,7 @@
 # Hi there, I’m Varsha 👋
+I am a Data Engineer passionate about building scalable data platforms and cloud-based data solutions that transform raw data into valuable business insights.
 
-🚀 **Python AI Engineer **
-
-I am a Python AI Engineer passionate about building intelligent systems that transform data into real-world solutions.
-
-My work focuses on developing machine learning models, building AI-powered applications, and integrating them into scalable backend systems.
+My work focuses on designing ETL/ELT pipelines, developing reliable data infrastructure, and leveraging technologies such as Python, SQL, PySpark, Snowflake, Databricks, and AWS/Azure to support analytics and AI-driven applications.
 
 ---
 
